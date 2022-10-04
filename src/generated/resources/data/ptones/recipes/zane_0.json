@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ptones:ptone_tile"
+    },
+    "S": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "ptones:zane_0",
+    "count": 8
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ptones:ptone_tile"
+    },
+    "S": {
+      "item": "minecraft:cobblestone_slab"
+    }
+  },
+  "result": {
+    "item": "ptones:zone_0",
+    "count": 8
+  }
+}

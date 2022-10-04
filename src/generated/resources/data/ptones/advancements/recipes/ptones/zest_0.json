@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "ptones:zest_0"
+    ]
+  },
+  "criteria": {
+    "has_ptone_tile": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ptones:ptone_tile"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ptones:zest_0"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ptone_tile",
+      "has_the_recipe"
+    ]
+  ]
+}

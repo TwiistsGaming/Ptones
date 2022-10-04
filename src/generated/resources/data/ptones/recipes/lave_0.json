@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ptones:ptone_tile"
+    },
+    "S": {
+      "tag": "forge:dyes/light_blue"
+    }
+  },
+  "result": {
+    "item": "ptones:lave_0",
+    "count": 8
+  }
+}

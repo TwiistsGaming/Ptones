@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "ptones:ptone_tile"
+    },
+    "S": {
+      "tag": "forge:dyes/yellow"
+    }
+  },
+  "result": {
+    "item": "ptones:sols_0",
+    "count": 8
+  }
+}

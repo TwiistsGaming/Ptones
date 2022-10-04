@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ptones:lave_7"
+  },
+  "result": "ptones:lave_10",
+  "count": 1
+}

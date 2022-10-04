@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "ptones:lamp_flat"
+    ]
+  },
+  "criteria": {
+    "has_glowstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:dusts/glowstone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "ptones:lamp_flat"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_glowstone",
+      "has_the_recipe"
+    ]
+  ]
+}

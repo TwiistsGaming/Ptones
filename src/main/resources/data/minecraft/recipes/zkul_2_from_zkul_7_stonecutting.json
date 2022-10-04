@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ptones:zkul_7"
+  },
+  "result": "ptones:zkul_2",
+  "count": 1
+}
