@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ptones:sync_6"
+  },
+  "result": "ptones:sync_5",
+  "count": 1
+}

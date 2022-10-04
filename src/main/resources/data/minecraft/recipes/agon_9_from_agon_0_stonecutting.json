@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ptones:agon_0"
+  },
+  "result": "ptones:agon_9",
+  "count": 1
+}

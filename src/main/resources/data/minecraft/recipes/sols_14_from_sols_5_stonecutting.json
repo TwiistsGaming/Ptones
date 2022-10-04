@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "ptones:sols_5"
+  },
+  "result": "ptones:sols_14",
+  "count": 1
+}
