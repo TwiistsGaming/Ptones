@@ -5,10 +5,10 @@ license="MIT"
 modId="ptones" #mandatory
 version="${file.jarVersion}" #mandatory
 displayName="ptones" #mandatory
-credits="TwiistsGaming for creating this mod" #optional
-authors="TwiistsGaming" #optional
+credits= "Dhvagra for the textures from the original mod, Ztones"
+authors="TwiistsGaming, Chloe Dawn, TehNut, Dhvagra" #optional
 description='''
-This mod adds more armor using existing resources
+Miscellaneous decorative building blocks
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.ptones]] #optional
